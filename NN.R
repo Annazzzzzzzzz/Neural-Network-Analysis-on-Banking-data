@@ -1,4 +1,4 @@
-wd='~/Desktop/Data Mining/team project/NN'
+wd='~/Desktop/NN'
 setwd(wd)
 
 library(keras)
